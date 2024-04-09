@@ -1,6 +1,6 @@
 # Projet d'Algorithmes
 
-Ce projet, initialement hébergé sur GitLab Community, est une initiative temporaire visant à explorer divers concepts en algorithmique.
+Ce projet, initialement hébergé sur GitLab Community de mon université, est une initiative temporaire visant à explorer divers concepts en algorithmique.
 
 ## Objectif du Projet
 
